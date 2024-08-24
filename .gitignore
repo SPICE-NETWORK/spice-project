@@ -1,5 +1,5 @@
-### AL ###
-#Template for AL projects for Dynamics 365 Business Central
+### QA ###
+#Template for QA projects for Dynamics 365 are based on Decentral code
 #launch.json folder
 .vscode/
 #Cache folder
