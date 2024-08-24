@@ -1,4 +1,4 @@
-Compiler License
+Aditional to the Compiler License
 Most of the code is licensed under GPLv3 (see below), the license for individual
 parts are as follows:
 
